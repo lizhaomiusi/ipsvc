@@ -14,3 +14,11 @@ jp|https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/jp.m3u
 kr|https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/kr.m3u
 us|https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/us.m3u
 freetv|https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
+hubei4k|https://raw.githubusercontent.com/Wang963963/IPTV-4K-M3U/main/m3u/%E6%B9%96%E5%8C%97%E7%94%B5%E4%BF%A1.m3u
+zwchd|https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.m3u
+cctvhd|https://raw.githubusercontent.com/zq720911/iptv-playlist/main/output/result.alive.m3u
+xisohi|https://raw.githubusercontent.com/xisohi/CHINA-IPTV/main/TV/live.txt
+kimwang|https://raw.githubusercontent.com/kimwang1978/collect-txt/main/bbxx365_lite.m3u
+samsung_us|https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/samsungtvplus_us.m3u
+pluto_us|https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/plutotv_us.m3u
+plex_us|https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/plex_us.m3u
