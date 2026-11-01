@@ -1,0 +1,16 @@
+国内·湖北电信测速,https://raw.githubusercontent.com/lizhaomiusi/ipsvc/main/hubei.m3u
+国内·自动测速,https://raw.githubusercontent.com/lizhaomiusi/ipsvc/main/guovin.m3u
+国内·港澳台咪咕,https://raw.githubusercontent.com/lizhaomiusi/ipsvc/main/suxuang.m3u
+国内·高清精选,https://raw.githubusercontent.com/lizhaomiusi/ipsvc/main/zbds.m3u
+国内·IPv6可回看,https://raw.githubusercontent.com/lizhaomiusi/ipsvc/main/fanmingming.m3u
+国内·每日检测,https://raw.githubusercontent.com/lizhaomiusi/ipsvc/main/bestfan.m3u
+国内·央视卫视,https://raw.githubusercontent.com/lizhaomiusi/ipsvc/main/chinaiptv.m3u
+国内·央视IPv4,https://raw.githubusercontent.com/lizhaomiusi/ipsvc/main/burningc4.m3u
+海外华语,https://raw.githubusercontent.com/lizhaomiusi/ipsvc/main/zho.m3u
+海外·香港,https://raw.githubusercontent.com/lizhaomiusi/ipsvc/main/hk.m3u
+国外·新闻,https://raw.githubusercontent.com/lizhaomiusi/ipsvc/main/news.m3u
+国外·英语,https://raw.githubusercontent.com/lizhaomiusi/ipsvc/main/eng.m3u
+国外·日本,https://raw.githubusercontent.com/lizhaomiusi/ipsvc/main/jp.m3u
+国外·韩国,https://raw.githubusercontent.com/lizhaomiusi/ipsvc/main/kr.m3u
+国外·美国,https://raw.githubusercontent.com/lizhaomiusi/ipsvc/main/us.m3u
+国外·免费台,https://raw.githubusercontent.com/lizhaomiusi/ipsvc/main/freetv.m3u
