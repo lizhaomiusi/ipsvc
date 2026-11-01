@@ -1,0 +1,857 @@
+#EXTM3U x-tvg-url="https://cdn.jsdelivr.net/gh/fanmingming/live@main/e.xml"
+#EXTINF:-1 tvg-name="CCTV-10 科教" group-title="央视纪录",CCTV-10 科教
+http://74.91.26.218:82/live/cctv10hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-9 纪录" group-title="央视纪录",CCTV-9 纪录
+https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=600fa219199ab8bd99e8dab7778e6e66
+#EXTINF:-1 tvg-name="CCTV-9 纪录" group-title="央视纪录",CCTV-9 纪录
+https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=ba9145017f6c78da905ea39a1e0510f1
+#EXTINF:-1 tvg-name="CCTV-9 纪录" group-title="央视纪录",CCTV-9 纪录
+http://74.91.26.218:82/live/cctv9hd.m3u8
+#EXTINF:-1 tvg-name="CCTV世界地理" group-title="央视纪录",CCTV世界地理
+http://207.56.13.146:81/cdnlive/sjdl.m3u8
+#EXTINF:-1 tvg-name="CCTV世界地理" group-title="央视纪录",CCTV世界地理
+http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="CCTV世界地理" group-title="央视纪录",CCTV世界地理
+http://bztv.tvbus.cc:8081/cdnlive/sjdl.m3u8
+#EXTINF:-1 tvg-name="CCTV世界地理" group-title="央视纪录",CCTV世界地理
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sjdl
+#EXTINF:-1 tvg-name="CCTV发现之旅" group-title="央视纪录",CCTV发现之旅
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fxzl
+#EXTINF:-1 tvg-name="CCTV发现之旅" group-title="央视纪录",CCTV发现之旅
+http://38.75.136.137:98/gslb/dsdqpub/fxzl.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="CGTN Documentary 高清" group-title="央视纪录",CGTN Documentary 高清
+https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
+#EXTINF:-1 tvg-name="CGTN纪录" group-title="央视纪录",CGTN纪录
+https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
+#EXTINF:-1 tvg-name="CGTN纪录" group-title="央视纪录",CGTN纪录
+https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
+#EXTINF:-1 tvg-name="CGTN纪录" group-title="央视纪录",CGTN纪录
+https://0472.org/hls/cgtnd.m3u8
+#EXTINF:-1 tvg-name="CGTN纪录" group-title="央视纪录",CGTN纪录
+http://59.173.122.230:10001/rtp/239.69.1.233:11040
+#EXTINF:-1 tvg-name="RT Doc-Русский（俄语纪录）" group-title="纪实频道",RT Doc-Русский（俄语纪录）
+https://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
+#EXTINF:-1 tvg-name="RT Documentary（英语纪录）" group-title="纪实频道",RT Documentary（英语纪录）
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-name="世界地理" group-title="纪实频道",世界地理
+http://59.173.122.230:10001/rtp/239.69.1.91:10186
+#EXTINF:-1 tvg-name="之江纪录" group-title="纪实频道",之江纪录
+https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 tvg-name="之江纪录" group-title="纪实频道",之江纪录
+http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 tvg-name="之江纪录" group-title="纪实频道",之江纪录
+https://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8
+#EXTINF:-1 tvg-name="之江纪录" group-title="纪实频道",之江纪录
+https://ysp.lml1971.ccwu.cc/zj_zhijiangjilu/playlist.m3u8
+#EXTINF:-1 tvg-name="北京科教" group-title="纪实频道",北京科教
+http://120.76.248.139/live/bfgd/4200000113.m3u8
+#EXTINF:-1 tvg-name="地理中国" group-title="纪实频道",地理中国
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c6baf6f74bb944aeacee1065ea72c798/1200.m3u8
+#EXTINF:-1 tvg-name="宿州科教" group-title="纪实频道",宿州科教
+http://live.ahsz.tv/video/s10001-kxjy/index.m3u8
+#EXTINF:-1 tvg-name="探索发现" group-title="纪实频道",探索发现
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/25137bd7c4494128bf0cba271974928f/1200.m3u8
+#EXTINF:-1 tvg-name="新纪实" group-title="纪实频道",新纪实
+http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
+#EXTINF:-1 tvg-name="金鹰纪实" group-title="纪实频道",金鹰纪实
+http://58.57.40.22:9901/tsfile/live/1070_1.m3u8
+#EXTINF:-1 tvg-name="金鹰纪实" group-title="纪实频道",金鹰纪实
+http://183.11.239.36:808/hls/171/index.m3u8
+#EXTINF:-1 tvg-name="金鹰纪实" group-title="纪实频道",金鹰纪实
+http://59.173.122.230:10001/rtp/239.69.1.109:10292
+#EXTINF:-1 tvg-name="Animal Planet" group-title="动物自然",Animal Planet
+http://free.cnlive.club/channel/nb957a7c/index.m3u8?q=1752629214236
+#EXTINF:-1 tvg-name="Animal Planet (Eng)" group-title="动物自然",Animal Planet (Eng)
+http://free.cnlive.club/channel/n18e58008/index.m3u8?q=1752629214236
+#EXTINF:-1 tvg-name="BBC Earth" group-title="动物自然",BBC Earth
+http://free.cnlive.club/channel/356e7ac6/index.m3u8?q=1752629214236
+#EXTINF:-1 tvg-name="BBC Earth Lifestyle" group-title="动物自然",BBC Earth Lifestyle
+http://free.cnlive.club/channel/359a630b/index.m3u8?q=1752629214236
+#EXTINF:-1 tvg-name="NatGeo Wild" group-title="动物自然",NatGeo Wild
+http://free.cnlive.club/channel/2ae73b1a/index.m3u8?q=1752629214236
+#EXTINF:-1 tvg-name="NatGeo Wild" group-title="动物自然",NatGeo Wild
+http://free.cnlive.club/channel/n6582cfc7/index.m3u8?q=1752629214236
+#EXTINF:-1 tvg-name="与野生动物为邻" group-title="动物自然",与野生动物为邻
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d25931bed86a49d4afb8780771797c19/1200.m3u8
+#EXTINF:-1 tvg-name="人与自然" group-title="动物自然",人与自然
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1425e1d505654cb48ba82b807b221193/1200.m3u8
+#EXTINF:-1 tvg-name="动物与计谋" group-title="动物自然",动物与计谋
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/403122f54ee5492fa9e5d2b8f0087ad2/1200.m3u8
+#EXTINF:-1 tvg-name="动物世界" group-title="动物自然",动物世界
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/71d7dce230b74c1b9e35b41e837ffc5f/1200.m3u8
+#EXTINF:-1 tvg-name="动物冠军俱乐部" group-title="动物自然",动物冠军俱乐部
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/65227347336749ffa373661cac985952/1200.m3u8
+#EXTINF:-1 tvg-name="动物冠军竞技场上" group-title="动物自然",动物冠军竞技场上
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/cf107046774d4db5a1ac622e880488e2/1200.m3u8
+#EXTINF:-1 tvg-name="动物冠军竞技场下" group-title="动物自然",动物冠军竞技场下
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9f1dc957013c4765a96b86c1890e4ae2/1200.m3u8
+#EXTINF:-1 tvg-name="动物宝宝闯天涯上" group-title="动物自然",动物宝宝闯天涯上
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e1f91fe01a9b4b24834a0a6e4b309bb2/1200.m3u8
+#EXTINF:-1 tvg-name="动物宝宝闯天涯下" group-title="动物自然",动物宝宝闯天涯下
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d5937591787941518b5a1390f7a1e792/1200.m3u8
+#EXTINF:-1 tvg-name="动物搏击赛" group-title="动物自然",动物搏击赛
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/22ef116331af49a782d42488e396837e/1200.m3u8
+#EXTINF:-1 tvg-name="动物搏击运动会" group-title="动物自然",动物搏击运动会
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0f74c44316a34ea482ecae43f5c12fa8/1200.m3u8
+#EXTINF:-1 tvg-name="动物星球" group-title="动物自然",动物星球
+http://61.221.215.25:8800/hls/57/index.m3u8
+#EXTINF:-1 tvg-name="动物父母有梦想上" group-title="动物自然",动物父母有梦想上
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f069e600b3584765840f34e9d641919a/1200.m3u8
+#EXTINF:-1 tvg-name="动物父母有梦想下" group-title="动物自然",动物父母有梦想下
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1c1df6f1bff5454a9570693475f920ef/1200.m3u8
+#EXTINF:-1 tvg-name="动物界捕食奇观" group-title="动物自然",动物界捕食奇观
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/5215de3e2a7b41009ed1ded1f29fea40/1200.m3u8
+#EXTINF:-1 tvg-name="动物的海底宫殿" group-title="动物自然",动物的海底宫殿
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0929798fce744530b14a6add96afcdf3/1200.m3u8
+#EXTINF:-1 tvg-name="动物霓裳羽衣之妙" group-title="动物自然",动物霓裳羽衣之妙
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b4aea8cd185c4126a37aa6e92d179f82/1200.m3u8
+#EXTINF:-1 tvg-name="奇异世界的动物们2" group-title="动物自然",奇异世界的动物们2
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ef3ee1bb8ff946a9adf07486709883eb/1200.m3u8
+#EXTINF:-1 tvg-name="奇异世界的动物们3" group-title="动物自然",奇异世界的动物们3
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/efa51c5e3af04df89e68606d75333080/1200.m3u8
+#EXTINF:-1 tvg-name="奇特动物的奇特遭遇上" group-title="动物自然",奇特动物的奇特遭遇上
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2b20f8ba9ae14d96b9907f59bb758595/1200.m3u8
+#EXTINF:-1 tvg-name="奇特动物的奇特遭遇下" group-title="动物自然",奇特动物的奇特遭遇下
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0ebab68eda084509b18c27982ecfb660/1200.m3u8
+#EXTINF:-1 tvg-name="小动物大猎手上" group-title="动物自然",小动物大猎手上
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c46a26d74f5b4da98f5c9d69f8218de0/1200.m3u8
+#EXTINF:-1 tvg-name="小动物大猎手下" group-title="动物自然",小动物大猎手下
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ef8ad1d36d9c4515a9e04443687a7f33/1200.m3u8
+#EXTINF:-1 tvg-name="小动物大英雄" group-title="动物自然",小动物大英雄
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/27818c0197e94415946b825b2b163e22/1200.m3u8
+#EXTINF:-1 tvg-name="小动物的森林童话" group-title="动物自然",小动物的森林童话
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/321727074edc4cf69b5b205111569205/1200.m3u8
+#EXTINF:-1 tvg-name="猫科动物谁为王者上" group-title="动物自然",猫科动物谁为王者上
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/17c3860b26c14110a740dfa49785a1bd/1200.m3u8
+#EXTINF:-1 tvg-name="猫科动物谁为王者下" group-title="动物自然",猫科动物谁为王者下
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1cbb873dc7474315b86788e9f657534a/1200.m3u8
+#EXTINF:-1 tvg-name="秘境里的动物王国" group-title="动物自然",秘境里的动物王国
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/bb36368ba24f47ed88d4204fd3db5483/1200.m3u8
+#EXTINF:-1 tvg-name="美丽中国自然" group-title="动物自然",美丽中国自然
+http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/51d937a0201f4c78a5878b4b37089f3b/4000.m3u8
+#EXTINF:-1 tvg-name="自然界奥运冠军" group-title="动物自然",自然界奥运冠军
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7b968e9b50984d598d96c6fc5af40b4c/1200.m3u8
+#EXTINF:-1 tvg-name="龙宫里的奇异动物" group-title="动物自然",龙宫里的奇异动物
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3528163c6b7d4a48b09b24027351ccf7/1200.m3u8
+#EXTINF:-1 tvg-name="Asia Travel" group-title="美食旅行",Asia Travel
+http://free.cnlive.club/channel/n3287f647/index.m3u8?q=1752629214236
+#EXTINF:-1 tvg-name="Foodnetwork Hd" group-title="美食旅行",Foodnetwork Hd
+http://free.cnlive.club/channel/n28af27dd/index.m3u8?q=1752629214236
+#EXTINF:-1 tvg-name="HGTV" group-title="美食旅行",HGTV
+http://free.cnlive.club/channel/264e2d58/index.m3u8?q=1752629214236
+#EXTINF:-1 tvg-name="TLC" group-title="美食旅行",TLC
+http://free.cnlive.club/channel/6c975854/index.m3u8?q=1752629214236
+#EXTINF:-1 tvg-name="中国味道 第4季-美食纪录片" group-title="美食旅行",中国味道 第4季-美食纪录片
+https://live.ottiptv.cc/yy/1382736845
+#EXTINF:-1 tvg-name="亚洲TLC" group-title="美食旅行",亚洲TLC
+http://free.cnlive.club/channel/24a7393c/index.m3u8?q=1752629214236
+#EXTINF:-1 tvg-name="亚洲旅游" group-title="美食旅行",亚洲旅游
+http://free.cnlive.club/channel/2631a9ae/index.m3u8?q=1752629214236
+#EXTINF:-1 tvg-name="亚洲美食" group-title="美食旅行",亚洲美食
+http://free.cnlive.club/channel/4b914480/index.m3u8?q=1752629214236
+#EXTINF:-1 tvg-name="美食星球" group-title="美食旅行",美食星球
+http://free.cnlive.club/channel/6272ba2c/index.m3u8?q=1752629214236
+#EXTINF:-1 tvg-name="老广的味道 第3季-美食纪录片" group-title="美食旅行",老广的味道 第3季-美食纪录片
+https://live.ottiptv.cc/yy/1382735565
+#EXTINF:-1 tvg-name="30A Loomered TV" group-title="国外纪录片（需翻墙）",30A Loomered TV
+https://30a-tv.com/loomer.m3u8
+#EXTINF:-1 tvg-name="365 days TV (576p)" group-title="国外纪录片（需翻墙）",365 days TV (576p)
+http://stream.mcquack.net/70/index.m3u8
+#EXTINF:-1 tvg-name="Adventure Earth (1080p)" group-title="国外纪录片（需翻墙）",Adventure Earth (1080p)
+https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
+#EXTINF:-1 tvg-name="Al Arabiya Programs (1280p)" group-title="国外纪录片（需翻墙）",Al Arabiya Programs (1280p)
+https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="AlternaTV (720p) [Not 24/7]" group-title="国外纪录片（需翻墙）",AlternaTV (720p) [Not 24/7]
+https://tv.alterna.ar/stream/hls/live.m3u8
+#EXTINF:-1 tvg-name="American Heroes Channel (720p)" group-title="国外纪录片（需翻墙）",American Heroes Channel (720p)
+http://23.237.104.106:8080/USA_AMERICAN_HEROES/index.m3u8
+#EXTINF:-1 tvg-name="American Pickers Plus by History" group-title="国外纪录片（需翻墙）",American Pickers Plus by History
+https://jmp2.uk/plu-6565413e4261ca0008215320.m3u8
+#EXTINF:-1 tvg-name="Animal Planet (India) (720p)" group-title="国外纪录片（需翻墙）",Animal Planet (India) (720p)
+https://drk6xq0vhn.gpcdn.net/live/animal_planet_sd_abr/index.m3u8
+#EXTINF:-1 tvg-name="Animal Planet (India) HD (720p)" group-title="国外纪录片（需翻墙）",Animal Planet (India) HD (720p)
+https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/index.m3u8
+#EXTINF:-1 tvg-name="Animal Planet (Russia) (1080p)" group-title="国外纪录片（需翻墙）",Animal Planet (Russia) (1080p)
+http://stream.mcquack.net/114/index.m3u8
+#EXTINF:-1 tvg-name="Animal Planet (United Kingdom)" group-title="国外纪录片（需翻墙）",Animal Planet (United Kingdom)
+http://37.49.224.5/stream/10/index.m3u8
+#EXTINF:-1 tvg-name="Animal Planet (United States) (720p)" group-title="国外纪录片（需翻墙）",Animal Planet (United States) (720p)
+http://23.239.31.26:8989/animalplanet/index.m3u8
+#EXTINF:-1 tvg-name="Animal Planet Latin America (1080p)" group-title="国外纪录片（需翻墙）",Animal Planet Latin America (1080p)
+http://190.128.214.97:64333/play/a01n/index.m3u8
+#EXTINF:-1 tvg-name="Animal Planet Latin America HD (720p) [Geo-blocked]" group-title="国外纪录片（需翻墙）",Animal Planet Latin America HD (720p) [Geo-blocked]
+http://15.204.246.24:8080/AnimalPlanetHD/index.m3u8
+#EXTINF:-1 tvg-name="Archivos Forenses" group-title="国外纪录片（需翻墙）",Archivos Forenses
+https://jmp2.uk/plu-5f984f4a09e92d0007d74647.m3u8
+#EXTINF:-1 tvg-name="Arsenal (576p)" group-title="国外纪录片（需翻墙）",Arsenal (576p)
+https://stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Asharq Discovery (1080p)" group-title="国外纪录片（需翻墙）",Asharq Discovery (1080p)
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-name="Asharq Documentary (1080p)" group-title="国外纪录片（需翻墙）",Asharq Documentary (1080p)
+https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-name="Atlas (480p)" group-title="国外纪录片（需翻墙）",Atlas (480p)
+https://cdn.whiplash.cc/whiplash-atlas/index.m3u8
+#EXTINF:-1 tvg-name="Autentic History (1080p)" group-title="国外纪录片（需翻墙）",Autentic History (1080p)
+https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC Earth" group-title="国外纪录片（需翻墙）",BBC Earth
+https://jmp2.uk/plu-656535fc2c46f30008870fae.m3u8
+#EXTINF:-1 tvg-name="BBC Earth Czechia" group-title="国外纪录片（需翻墙）",BBC Earth Czechia
+http://88.212.7.14/live/test_bbc_eartch_hevc/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC Earth Hungary" group-title="国外纪录片（需翻墙）",BBC Earth Hungary
+http://88.212.7.14/live/bbce_hun/index.m3u8
+#EXTINF:-1 tvg-name="BBC Earth US (1080p)" group-title="国外纪录片（需翻墙）",BBC Earth US (1080p)
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
+#EXTINF:-1 tvg-name="BTB Info (1080p)" group-title="国外纪录片（需翻墙）",BTB Info (1080p)
+https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8
+#EXTINF:-1 tvg-name="Backstage (1080p)" group-title="国外纪录片（需翻墙）",Backstage (1080p)
+https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8
+#EXTINF:-1 tvg-name="Bloomberg Originals (1080p)" group-title="国外纪录片（需翻墙）",Bloomberg Originals (1080p)
+https://bloomberg.com/media-manifest/streams/qt.m3u8
+#EXTINF:-1 tvg-name="Bloomberg Originals SD (1080p)" group-title="国外纪录片（需翻墙）",Bloomberg Originals SD (1080p)
+https://86fdc85a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnT3JpZ2luYWxzX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-name="BritBox Mysteries (1080p)" group-title="国外纪录片（需翻墙）",BritBox Mysteries (1080p)
+https://aegis-cloudfront-1.tubi.video/c95700f8-e51c-4a36-ad46-56f70fc9f1d9/playlist.m3u8
+#EXTINF:-1 tvg-name="CCTV-9" group-title="国外纪录片（需翻墙）",CCTV-9
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv9hd
+#EXTINF:-1 tvg-name="CCTV-9" group-title="国外纪录片（需翻墙）",CCTV-9
+https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=02207588a07adb10df56567ec61ec106
+#EXTINF:-1 tvg-name="CCTV-9" group-title="国外纪录片（需翻墙）",CCTV-9
+https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=2f74aabfb953fc325f2fb99ad2a7522e
+#EXTINF:-1 tvg-name="CCTV-9 (576i)" group-title="国外纪录片（需翻墙）",CCTV-9 (576i)
+https://xykt-fix.github.io/Y77.m3u8
+#EXTINF:-1 tvg-name="CCTV-Weapon & Technology (1080p)" group-title="国外纪录片（需翻墙）",CCTV-Weapon & Technology (1080p)
+http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="CCTV10" group-title="国外纪录片（需翻墙）",CCTV10
+http://118.193.115.2:9901/tsfile/live/0010_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="CCTV10" group-title="国外纪录片（需翻墙）",CCTV10
+http://113.90.154.189:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV10" group-title="国外纪录片（需翻墙）",CCTV10
+http://222.223.41.27:8888/hls/10/index.m3u8
+#EXTINF:-1 tvg-name="CCTV10" group-title="国外纪录片（需翻墙）",CCTV10
+http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-name="CCTV10" group-title="国外纪录片（需翻墙）",CCTV10
+http://153.0.171.163:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV10" group-title="国外纪录片（需翻墙）",CCTV10
+http://198.204.228.26/live/cctv10hd.m3u8
+#EXTINF:-1 tvg-name="CCTV10" group-title="国外纪录片（需翻墙）",CCTV10
+http://69.30.245.50/live/cctv10.m3u8
+#EXTINF:-1 tvg-name="CCTV10" group-title="国外纪录片（需翻墙）",CCTV10
+http://204.12.221.218:8181/3m1080p/cctv10.m3u8
+#EXTINF:-1 tvg-name="CCTV10" group-title="国外纪录片（需翻墙）",CCTV10
+http://bztv.tvbus.cc:8081/cdnlive/cctv10.m3u8
+#EXTINF:-1 tvg-name="CCTV10" group-title="国外纪录片（需翻墙）",CCTV10
+http://107.150.60.122/live/cctv10hd.m3u8
+#EXTINF:-1 tvg-name="CCTV10" group-title="国外纪录片（需翻墙）",CCTV10
+http://116.77.33.98:44330/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="CCTV10" group-title="国外纪录片（需翻墙）",CCTV10
+http://124.90.45.52:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV10" group-title="国外纪录片（需翻墙）",CCTV10
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv10hd
+#EXTINF:-1 tvg-name="CCTV10" group-title="国外纪录片（需翻墙）",CCTV10
+http://38.75.136.137:98/gslb/dsdqpub/cctv10hd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="CCTV10" group-title="国外纪录片（需翻墙）",CCTV10
+http://173.208.212.130:8181/1080p/cctv10.m3u8
+#EXTINF:-1 tvg-name="CCTV10" group-title="国外纪录片（需翻墙）",CCTV10
+http://173.208.212.130:8181/720p/cctv10.m3u8
+#EXTINF:-1 tvg-name="CCTV10" group-title="国外纪录片（需翻墙）",CCTV10
+http://183.11.239.36:808/hls/28/index.m3u8
+#EXTINF:-1 tvg-name="CCTV10" group-title="国外纪录片（需翻墙）",CCTV10
+http://183.223.157.123:85/tsfile/live/0010_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="CCTV10" group-title="国外纪录片（需翻墙）",CCTV10
+http://113.57.140.161:10081/newlive/live/hls/11/live.m3u8
+#EXTINF:-1 tvg-name="CCTV10" group-title="国外纪录片（需翻墙）",CCTV10
+http://1.24.39.180:9003/hls/10/index.m3u8
+#EXTINF:-1 tvg-name="CCTV10" group-title="国外纪录片（需翻墙）",CCTV10
+http://59.39.89.130:60901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV10" group-title="国外纪录片（需翻墙）",CCTV10
+http://120.237.39.10:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="CCTV10" group-title="国外纪录片（需翻墙）",CCTV10
+http://58.56.162.102:4466/newlive/live/hls/11/live.m3u8
+#EXTINF:-1 tvg-name="CCTV10" group-title="国外纪录片（需翻墙）",CCTV10
+http://vpn.famcloud.top:9878/rtp/239.3.1.63:8116
+#EXTINF:-1 tvg-name="CCTV10" group-title="国外纪录片（需翻墙）",CCTV10
+http://home.amucn.net:8800/rtp/239.49.8.54:9818
+#EXTINF:-1 tvg-name="CCTV10" group-title="国外纪录片（需翻墙）",CCTV10
+http://emby.xlangnan.cn:10316/rtp/239.254.200.160:6000
+#EXTINF:-1 tvg-name="CCTV10" group-title="国外纪录片（需翻墙）",CCTV10
+http://hiliu.myds.me:18088/rtp/239.69.1.105:10268
+#EXTINF:-1 tvg-name="CCTV10" group-title="国外纪录片（需翻墙）",CCTV10
+http://www.sjwyp.com:4022/rtp/239.254.200.160:6000
+#EXTINF:-1 tvg-name="CCTV10" group-title="国外纪录片（需翻墙）",CCTV10
+http://joyznm.i234.me:20000/rtp/239.3.1.63:8116
+#EXTINF:-1 tvg-name="CCTV10" group-title="国外纪录片（需翻墙）",CCTV10
+http://home.scanflove.com:7788/rtp/235.254.198.59:1512
+#EXTINF:-1 tvg-name="CCTV10" group-title="国外纪录片（需翻墙）",CCTV10
+http://z.d4p.cn:8000/rtp/239.49.8.54:9818
+#EXTINF:-1 tvg-name="CCTV10" group-title="国外纪录片（需翻墙）",CCTV10
+http://liuwenxiaokevin.top:14044/rtp/233.18.204.76:5140
+#EXTINF:-1 tvg-name="CCTV10" group-title="国外纪录片（需翻墙）",CCTV10
+http://nas.lyfkai.cn:19999/rtp/239.69.1.105:10268
+#EXTINF:-1 tvg-name="CCTV10" group-title="国外纪录片（需翻墙）",CCTV10
+http://ds3622.guangyuan.site:8188/rtp/239.77.0.134:5146
+#EXTINF:-1 tvg-name="CCTV10" group-title="国外纪录片（需翻墙）",CCTV10
+http://lbyjlt.vv5678.cn:8880/rtp/239.77.0.134:5146
+#EXTINF:-1 tvg-name="CCTV10" group-title="国外纪录片（需翻墙）",CCTV10
+http://alist.guangyuan.site:8188/rtp/239.77.0.134:5146
+#EXTINF:-1 tvg-name="CCTV10" group-title="国外纪录片（需翻墙）",CCTV10
+http://www.huijie5421.cn:8800/rtp/239.49.8.54:9818
+#EXTINF:-1 tvg-name="CCTV10" group-title="国外纪录片（需翻墙）",CCTV10
+http://esxi.juzhijian.com:8822/rtp/239.16.20.10:10100
+#EXTINF:-1 tvg-name="CCTV10" group-title="国外纪录片（需翻墙）",CCTV10
+http://sdray.gicp.net:8822/rtp/239.16.20.10:10100
+#EXTINF:-1 tvg-name="CCTV10" group-title="国外纪录片（需翻墙）",CCTV10
+http://www.yyf1991.top:9999/rtp/233.18.204.76:5140
+#EXTINF:-1 tvg-name="CCTV10" group-title="国外纪录片（需翻墙）",CCTV10
+http://server.juzhijian.com:8822/rtp/239.16.20.10:10100
+#EXTINF:-1 tvg-name="CCTV10" group-title="国外纪录片（需翻墙）",CCTV10
+http://www.rongrong.me:14022/rtp/233.18.204.76:5140
+#EXTINF:-1 tvg-name="CCTV10" group-title="国外纪录片（需翻墙）",CCTV10
+http://39.165.39.49:85/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV10" group-title="国外纪录片（需翻墙）",CCTV10
+http://183.129.255.66:8480/hls/11/index.m3u8
+#EXTINF:-1 tvg-name="CCTV10" group-title="国外纪录片（需翻墙）",CCTV10
+http://27.129.145.110:4433/hls/10/index.m3u8
+#EXTINF:-1 tvg-name="CCTV10" group-title="国外纪录片（需翻墙）",CCTV10
+http://fuxin.yunjifei.top:999/tsfile/live/0010_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="CCTV10" group-title="国外纪录片（需翻墙）",CCTV10
+http://120.40.39.246:352/newlive/live/hls/11/live.m3u8
+#EXTINF:-1 tvg-name="CCTV10" group-title="国外纪录片（需翻墙）",CCTV10
+http://118.122.144.115:8888/newlive/live/hls/11/live.m3u8
+#EXTINF:-1 tvg-name="CCTV10" group-title="国外纪录片（需翻墙）",CCTV10
+http://192.151.150.154/live/cctv10hd.m3u8
+#EXTINF:-1 tvg-name="CCTV10" group-title="国外纪录片（需翻墙）",CCTV10
+http://219.147.245.238:25480/newlive/live/hls/11/live.m3u8
+#EXTINF:-1 tvg-name="CCTV10" group-title="国外纪录片（需翻墙）",CCTV10
+http://221.226.51.220:50081/newlive/live/hls/11/live.m3u8
+#EXTINF:-1 tvg-name="CCTV10" group-title="国外纪录片（需翻墙）",CCTV10
+https://piccpndali.v.myalicdn.com/audio/cctv10_2.m3u8
+#EXTINF:-1 tvg-name="CCTV10" group-title="国外纪录片（需翻墙）",CCTV10
+http://61.136.172.236:9901/tsfile/live/0010_1.m3u8
+#EXTINF:-1 tvg-name="CCTV10" group-title="国外纪录片（需翻墙）",CCTV10
+https://play.kankanlive.com/live/1698423445959919.m3u8
+#EXTINF:-1 tvg-name="CCTV10" group-title="国外纪录片（需翻墙）",CCTV10
+http://59.173.122.230:10001/rtp/239.69.1.105:10268
+#EXTINF:-1 tvg-name="CCTV10SD" group-title="国外纪录片（需翻墙）",CCTV10SD
+http://59.173.122.230:10001/rtp/239.254.96.158:9022
+#EXTINF:-1 tvg-name="CCTV9" group-title="国外纪录片（需翻墙）",CCTV9
+http://113.57.140.161:10081/newlive/live/hls/10/live.m3u8
+#EXTINF:-1 tvg-name="CCTV9" group-title="国外纪录片（需翻墙）",CCTV9
+http://222.223.41.27:8888/hls/9/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9" group-title="国外纪录片（需翻墙）",CCTV9
+http://118.193.115.2:9901/tsfile/live/0009_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="CCTV9" group-title="国外纪录片（需翻墙）",CCTV9
+http://38.75.136.137:98/gslb/dsdqbv/cctv9hd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-name="CCTV9" group-title="国外纪录片（需翻墙）",CCTV9
+http://153.0.171.163:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV9" group-title="国外纪录片（需翻墙）",CCTV9
+http://198.204.228.26/live/cctv9hd.m3u8
+#EXTINF:-1 tvg-name="CCTV9" group-title="国外纪录片（需翻墙）",CCTV9
+http://192.151.150.154/live/cctv9hd.m3u8
+#EXTINF:-1 tvg-name="CCTV9" group-title="国外纪录片（需翻墙）",CCTV9
+http://69.30.245.50/live/cctv9.m3u8
+#EXTINF:-1 tvg-name="CCTV9" group-title="国外纪录片（需翻墙）",CCTV9
+http://bztv.tvbus.cc:8081/cdnlive/cctv9.m3u8
+#EXTINF:-1 tvg-name="CCTV9" group-title="国外纪录片（需翻墙）",CCTV9
+http://107.150.60.122/live/cctv9hd.m3u8
+#EXTINF:-1 tvg-name="CCTV9" group-title="国外纪录片（需翻墙）",CCTV9
+http://116.77.33.98:44330/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="CCTV9" group-title="国外纪录片（需翻墙）",CCTV9
+http://124.90.45.52:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV9" group-title="国外纪录片（需翻墙）",CCTV9
+http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="CCTV9" group-title="国外纪录片（需翻墙）",CCTV9
+http://173.208.212.130:8181/1080p/cctv9.m3u8
+#EXTINF:-1 tvg-name="CCTV9" group-title="国外纪录片（需翻墙）",CCTV9
+http://204.12.221.218:8181/3m1080p/cctv9.m3u8
+#EXTINF:-1 tvg-name="CCTV9" group-title="国外纪录片（需翻墙）",CCTV9
+http://183.11.239.36:808/hls/27/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9" group-title="国外纪录片（需翻墙）",CCTV9
+http://1.24.39.180:9003/hls/9/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9" group-title="国外纪录片（需翻墙）",CCTV9
+http://play.kankanlive.com/live/1698423397390920.m3u8
+#EXTINF:-1 tvg-name="CCTV9" group-title="国外纪录片（需翻墙）",CCTV9
+http://119.39.9.8:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="CCTV9" group-title="国外纪录片（需翻墙）",CCTV9
+https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=40e0365ee12acde026019378b3270eb0
+#EXTINF:-1 tvg-name="CCTV9" group-title="国外纪录片（需翻墙）",CCTV9
+http://58.56.162.102:4466/newlive/live/hls/10/live.m3u8
+#EXTINF:-1 tvg-name="CCTV9" group-title="国外纪录片（需翻墙）",CCTV9
+http://vpn.famcloud.top:9878/rtp/239.3.1.62:8112
+#EXTINF:-1 tvg-name="CCTV9" group-title="国外纪录片（需翻墙）",CCTV9
+http://home.amucn.net:8800/rtp/239.49.8.53:9814
+#EXTINF:-1 tvg-name="CCTV9" group-title="国外纪录片（需翻墙）",CCTV9
+http://emby.xlangnan.cn:10316/rtp/239.254.200.59:8112
+#EXTINF:-1 tvg-name="CCTV9" group-title="国外纪录片（需翻墙）",CCTV9
+http://hiliu.myds.me:18088/rtp/239.69.1.104:10262
+#EXTINF:-1 tvg-name="CCTV9" group-title="国外纪录片（需翻墙）",CCTV9
+http://www.sjwyp.com:4022/rtp/239.254.200.59:8112
+#EXTINF:-1 tvg-name="CCTV9" group-title="国外纪录片（需翻墙）",CCTV9
+http://joyznm.i234.me:20000/rtp/239.3.1.62:8112
+#EXTINF:-1 tvg-name="CCTV9" group-title="国外纪录片（需翻墙）",CCTV9
+http://z.d4p.cn:8000/rtp/239.49.8.53:9814
+#EXTINF:-1 tvg-name="CCTV9" group-title="国外纪录片（需翻墙）",CCTV9
+http://liuwenxiaokevin.top:14044/rtp/233.18.204.75:5140
+#EXTINF:-1 tvg-name="CCTV9" group-title="国外纪录片（需翻墙）",CCTV9
+http://nas.lyfkai.cn:19999/rtp/239.69.1.104:10262
+#EXTINF:-1 tvg-name="CCTV9" group-title="国外纪录片（需翻墙）",CCTV9
+http://ds3622.guangyuan.site:8188/rtp/239.77.0.135:5146
+#EXTINF:-1 tvg-name="CCTV9" group-title="国外纪录片（需翻墙）",CCTV9
+http://lbyjlt.vv5678.cn:8880/rtp/239.77.0.135:5146
+#EXTINF:-1 tvg-name="CCTV9" group-title="国外纪录片（需翻墙）",CCTV9
+http://alist.guangyuan.site:8188/rtp/239.77.0.135:5146
+#EXTINF:-1 tvg-name="CCTV9" group-title="国外纪录片（需翻墙）",CCTV9
+http://www.huijie5421.cn:8800/rtp/239.49.8.53:9814
+#EXTINF:-1 tvg-name="CCTV9" group-title="国外纪录片（需翻墙）",CCTV9
+http://esxi.juzhijian.com:8822/rtp/239.16.20.9:10090
+#EXTINF:-1 tvg-name="CCTV9" group-title="国外纪录片（需翻墙）",CCTV9
+http://sdray.gicp.net:8822/rtp/239.16.20.9:10090
+#EXTINF:-1 tvg-name="CCTV9" group-title="国外纪录片（需翻墙）",CCTV9
+http://server.juzhijian.com:8822/rtp/239.16.20.9:10090
+#EXTINF:-1 tvg-name="CCTV9" group-title="国外纪录片（需翻墙）",CCTV9
+http://www.rongrong.me:14022/rtp/233.18.204.75:5140
+#EXTINF:-1 tvg-name="CCTV9" group-title="国外纪录片（需翻墙）",CCTV9
+http://39.165.39.49:85/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV9" group-title="国外纪录片（需翻墙）",CCTV9
+http://183.129.255.66:8480/hls/10/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9" group-title="国外纪录片（需翻墙）",CCTV9
+http://27.129.145.110:4433/hls/9/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9" group-title="国外纪录片（需翻墙）",CCTV9
+http://fuxin.yunjifei.top:999/tsfile/live/0009_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="CCTV9" group-title="国外纪录片（需翻墙）",CCTV9
+http://120.40.39.246:352/newlive/live/hls/10/live.m3u8
+#EXTINF:-1 tvg-name="CCTV9" group-title="国外纪录片（需翻墙）",CCTV9
+http://221.226.51.220:50081/newlive/live/hls/10/live.m3u8
+#EXTINF:-1 tvg-name="CCTV9" group-title="国外纪录片（需翻墙）",CCTV9
+http://104.152.209.49:8181/720p/cctv9.m3u8
+#EXTINF:-1 tvg-name="CCTV9" group-title="国外纪录片（需翻墙）",CCTV9
+http://118.122.144.115:8888/newlive/live/hls/10/live.m3u8
+#EXTINF:-1 tvg-name="CCTV9" group-title="国外纪录片（需翻墙）",CCTV9
+http://113.90.154.189:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV9" group-title="国外纪录片（需翻墙）",CCTV9
+https://piccpndali.v.myalicdn.com/audio/cctv9_2.m3u8
+#EXTINF:-1 tvg-name="CCTV9" group-title="国外纪录片（需翻墙）",CCTV9
+http://112.46.85.60:8009/hls/509/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9" group-title="国外纪录片（需翻墙）",CCTV9
+http://58.57.40.22:9901/tsfile/live/1009_1.m3u8
+#EXTINF:-1 tvg-name="CCTV9" group-title="国外纪录片（需翻墙）",CCTV9
+https://play.kankanlive.com/live/1698423397390920.m3u8
+#EXTINF:-1 tvg-name="CCTV9" group-title="国外纪录片（需翻墙）",CCTV9
+http://59.173.122.230:10001/rtp/239.69.1.104:10262
+#EXTINF:-1 tvg-name="CCTV9SD" group-title="国外纪录片（需翻墙）",CCTV9SD
+http://59.173.122.230:10001/rtp/239.254.96.157:9016
+#EXTINF:-1 tvg-name="CGTN Documentary" group-title="国外纪录片（需翻墙）",CGTN Documentary
+https://english-livebkali.cgtn.com/live/doccgtn.m3u8
+#EXTINF:-1 tvg-name="CGTN Documentary English Ⓢ" group-title="国外纪录片（需翻墙）",CGTN Documentary English Ⓢ
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+#EXTINF:-1 tvg-name="CI" group-title="国外纪录片（需翻墙）",CI
+http://free.cnlive.club/channel/1404dfbd/index.m3u8?q=1752629214236
+#EXTINF:-1 tvg-name="CNA Originals (1080p)" group-title="国外纪录片（需翻墙）",CNA Originals (1080p)
+https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="CT2" group-title="国外纪录片（需翻墙）",CT2
+http://88.212.15.50/live/test_ct2_25p/playlist.m3u8
+#EXTINF:-1 tvg-name="Chemodan TV (1080p)" group-title="国外纪录片（需翻墙）",Chemodan TV (1080p)
+http://stream.mcquack.net/399/index.m3u8
+#EXTINF:-1 tvg-name="China Travel (1080p)" group-title="国外纪录片（需翻墙）",China Travel (1080p)
+https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
+#EXTINF:-1 tvg-name="Court TV (1080p)" group-title="国外纪录片（需翻墙）",Court TV (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
+#EXTINF:-1 tvg-name="Crime 360 (720p)" group-title="国外纪录片（需翻墙）",Crime 360 (720p)
+https://jmp2.uk/plu-657880c46e4f6a00087404d0.m3u8
+#EXTINF:-1 tvg-name="Crimen & Historia (720p)" group-title="国外纪录片（需翻墙）",Crimen & Historia (720p)
+https://jmp2.uk/plu-64ddcbb14c5ed80008fad416.m3u8
+#EXTINF:-1 tvg-name="Danger TV (720p)" group-title="国外纪录片（需翻墙）",Danger TV (720p)
+https://dk0n7jh428tzj.cloudfront.net/v1/dangertv/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-name="Dateline 24/7 (1080p)" group-title="国外纪录片（需翻墙）",Dateline 24/7 (1080p)
+https://d1si3n1st4nkgb.cloudfront.net/10502/88896029/hls/master.m3u8?ads.xumo_channelId=88896029
+#EXTINF:-1 tvg-name="Deadly Women (1080p)" group-title="国外纪录片（需翻墙）",Deadly Women (1080p)
+https://d1mgh147xpmgs8.cloudfront.net/DeadlyWomen_GB.m3u8
+#EXTINF:-1 tvg-name="Detetives Medicos" group-title="国外纪录片（需翻墙）",Detetives Medicos
+https://jmp2.uk/plu-638df93ae2f2a3000737c168.m3u8
+#EXTINF:-1 tvg-name="Discovering China (1080p)" group-title="国外纪录片（需翻墙）",Discovering China (1080p)
+https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
+#EXTINF:-1 tvg-name="Discovery" group-title="国外纪录片（需翻墙）",Discovery
+http://free.cnlive.club/channel/n2517f7dd/index.m3u8?q=1752629214236
+#EXTINF:-1 tvg-name="Discovery" group-title="国外纪录片（需翻墙）",Discovery
+http://ott.watch/stream/E9LDH2ZCN7/146.m3u8
+#EXTINF:-1 tvg-name="Discovery" group-title="国外纪录片（需翻墙）",Discovery
+http://ott.watch/stream/E9LDH2ZCN7/177.m3u8
+#EXTINF:-1 tvg-name="Discovery Asia" group-title="国外纪录片（需翻墙）",Discovery Asia
+http://free.cnlive.club/channel/n3efbe5af/index.m3u8?q=1752629214236
+#EXTINF:-1 tvg-name="Discovery Asia Taiwan (1080p)" group-title="国外纪录片（需翻墙）",Discovery Asia Taiwan (1080p)
+http://125.227.210.55:1004/VideoInput/play.ts
+#EXTINF:-1 tvg-name="Discovery Channel" group-title="国外纪录片（需翻墙）",Discovery Channel
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8
+#EXTINF:-1 tvg-name="Discovery Channel (India) (720p)" group-title="国外纪录片（需翻墙）",Discovery Channel (India) (720p)
+https://drk6xq0vhn.gpcdn.net/live/discovery_sd_abr/index.m3u8
+#EXTINF:-1 tvg-name="Discovery Channel (India) HD (720p)" group-title="国外纪录片（需翻墙）",Discovery Channel (India) HD (720p)
+https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/index.m3u8
+#EXTINF:-1 tvg-name="Discovery Channel (United Kingdom)" group-title="国外纪录片（需翻墙）",Discovery Channel (United Kingdom)
+http://37.49.224.5/stream/11/index.m3u8
+#EXTINF:-1 tvg-name="Discovery Channel (United States) (1080p) [Geo-blocked]" group-title="国外纪录片（需翻墙）",Discovery Channel (United States) (1080p) [Geo-blocked]
+http://212.5.144.156:8080/discovery/index.m3u8
+#EXTINF:-1 tvg-name="Discovery Channel Latin America (1080p)" group-title="国外纪录片（需翻墙）",Discovery Channel Latin America (1080p)
+http://45.171.64.30:6060/play/a032/index.m3u8
+#EXTINF:-1 tvg-name="Discovery History" group-title="国外纪录片（需翻墙）",Discovery History
+http://37.49.224.5/stream/12/index.m3u8
+#EXTINF:-1 tvg-name="Discovery Kids (720p)" group-title="国外纪录片（需翻墙）",Discovery Kids (720p)
+https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8
+#EXTINF:-1 tvg-name="Discovery Science (720p)" group-title="国外纪录片（需翻墙）",Discovery Science (720p)
+https://drk6xq0vhn.gpcdn.net/live/discovery_science_abr/index.m3u8
+#EXTINF:-1 tvg-name="Discovery Science Europe UK" group-title="国外纪录片（需翻墙）",Discovery Science Europe UK
+http://37.49.224.5/stream/9/index.m3u8
+#EXTINF:-1 tvg-name="Discovery Turbo (India) (720p)" group-title="国外纪录片（需翻墙）",Discovery Turbo (India) (720p)
+https://drk6xq0vhn.gpcdn.net/live/discovery_turbo_abr/index.m3u8
+#EXTINF:-1 tvg-name="Discovery Turbo (United Kingdom)" group-title="国外纪录片（需翻墙）",Discovery Turbo (United Kingdom)
+http://37.49.224.5/stream/13/index.m3u8
+#EXTINF:-1 tvg-name="Discovery Turbo (United States) (720p)" group-title="国外纪录片（需翻墙）",Discovery Turbo (United States) (720p)
+http://41.205.93.154/ESPNNEWS/index.m3u8
+#EXTINF:-1 tvg-name="Discovery Turbo TV" group-title="国外纪录片（需翻墙）",Discovery Turbo TV
+https://jmp2.uk/plu-6400f731d200410008f9b339.m3u8
+#EXTINF:-1 tvg-name="DocuBay TV (1080p)" group-title="国外纪录片（需翻墙）",DocuBay TV (1080p)
+https://cc-mgr91yrk4pehy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mgr91yrk4pehy/playlist.m3u8
+#EXTINF:-1 tvg-name="DocuBox" group-title="国外纪录片（需翻墙）",DocuBox
+https://dash3.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
+#EXTINF:-1 tvg-name="Documentari – Pluto TV" group-title="国外纪录片（需翻墙）",Documentari – Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa8a5709d6b0007b132fe/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-name="Documentary+ (1080p)" group-title="国外纪录片（需翻墙）",Documentary+ (1080p)
+https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Dog Whisperer" group-title="国外纪录片（需翻墙）",Dog Whisperer
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-652a8b001b5c74bc83cf727c/?X-Plex-Token=b676eoTngS5Ec_CLiyvr
+#EXTINF:-1 tvg-name="Dog Whisperer with Cesar Millan" group-title="国外纪录片（需翻墙）",Dog Whisperer with Cesar Millan
+https://jmp2.uk/plu-664fd48894d5580008e45e7c.m3u8
+#EXTINF:-1 tvg-name="Dokusat (1080p)" group-title="国外纪录片（需翻墙）",Dokusat (1080p)
+https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
+#EXTINF:-1 tvg-name="Dossiers FBI" group-title="国外纪录片（需翻墙）",Dossiers FBI
+https://jmp2.uk/plu-5f8edad922b10b000753bc37.m3u8
+#EXTINF:-1 tvg-name="Dvojka" group-title="国外纪录片（需翻墙）",Dvojka
+http://88.212.15.50/live/test_dvojka_25p/playlist.m3u8
+#EXTINF:-1 tvg-name="Ecovision (720p)" group-title="国外纪录片（需翻墙）",Ecovision (720p)
+https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8
+#EXTINF:-1 tvg-name="Epic Crimes (1080p)" group-title="国外纪录片（需翻墙）",Epic Crimes (1080p)
+https://cc-wsuyg2uxeak04.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wsuyg2uxeak04/master.m3u8
+#EXTINF:-1 tvg-name="FBI Files" group-title="国外纪录片（需翻墙）",FBI Files
+https://jmp2.uk/plu-62bdaa32a1b2fd00076693e8.m3u8
+#EXTINF:-1 tvg-name="Forensic Files" group-title="国外纪录片（需翻墙）",Forensic Files
+https://jmp2.uk/plu-62e92392a3e6270007f562e8.m3u8
+#EXTINF:-1 tvg-name="Get.factual (720p)" group-title="国外纪录片（需翻墙）",Get.factual (720p)
+https://d1nhni5l2n8hjt.cloudfront.net/gf.m3u8
+#EXTINF:-1 tvg-name="H2" group-title="国外纪录片（需翻墙）",H2
+http://213.91.179.28:8000/play/a03r
+#EXTINF:-1 tvg-name="HISTORY" group-title="国外纪录片（需翻墙）",HISTORY
+http://37.27.111.214:8080/live/27/hls.m3u8
+#EXTINF:-1 tvg-name="HRT 3 (720p)" group-title="国外纪录片（需翻墙）",HRT 3 (720p)
+https://webtvstream.bhtelecom.ba/hrt3.m3u8
+#EXTINF:-1 tvg-name="Historia Y Vida (720p)" group-title="国外纪录片（需翻墙）",Historia Y Vida (720p)
+https://jmp2.uk/plu-67517f923a61d40008c451f0.m3u8
+#EXTINF:-1 tvg-name="History" group-title="国外纪录片（需翻墙）",History
+http://free.cnlive.club/channel/n20a85c83/index.m3u8?q=1752629214236
+#EXTINF:-1 tvg-name="History (Bulgaria)" group-title="国外纪录片（需翻墙）",History (Bulgaria)
+http://213.91.179.28:8000/play/a0c1
+#EXTINF:-1 tvg-name="History (Czech Republic)" group-title="国外纪录片（需翻墙）",History (Czech Republic)
+http://88.212.15.50/live/test_history/playlist.m3u8
+#EXTINF:-1 tvg-name="History (Hungary)" group-title="国外纪录片（需翻墙）",History (Hungary)
+http://88.212.7.14/live/history_hun/index.m3u8
+#EXTINF:-1 tvg-name="History (Poland) (576i)" group-title="国外纪录片（需翻墙）",History (Poland) (576i)
+http://92.114.85.87:8015/play/a00c/index.m3u8
+#EXTINF:-1 tvg-name="History (United States) (720p)" group-title="国外纪录片（需翻墙）",History (United States) (720p)
+http://212.5.144.156:8080/history/index.m3u8
+#EXTINF:-1 tvg-name="History 2 Latin America (1080p)" group-title="国外纪录片（需翻墙）",History 2 Latin America (1080p)
+http://138.121.15.230:9002/HISTORY-2/index.m3u8
+#EXTINF:-1 tvg-name="History 365" group-title="国外纪录片（需翻墙）",History 365
+https://jmp2.uk/stvp-USBD35000428O
+#EXTINF:-1 tvg-name="History Asia (720p)" group-title="国外纪录片（需翻墙）",History Asia (720p)
+https://freem3u.xyz/api/live/play.m3u8?vid=9856
+#EXTINF:-1 tvg-name="History Hit" group-title="国外纪录片（需翻墙）",History Hit
+https://lds-timeline-rakuten.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-name="History Hit (1080p)" group-title="国外纪录片（需翻墙）",History Hit (1080p)
+https://lds-timeline-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="History Latin America (1080p)" group-title="国外纪录片（需翻墙）",History Latin America (1080p)
+http://15.204.246.24:8080/HistoryHD/index.m3u8
+#EXTINF:-1 tvg-name="History Latin America South" group-title="国外纪录片（需翻墙）",History Latin America South
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/37.m3u8
+#EXTINF:-1 tvg-name="ID" group-title="国外纪录片（需翻墙）",ID
+http://213.91.179.28:8000/play/a0cf
+#EXTINF:-1 tvg-name="INWILD (1080p)" group-title="国外纪录片（需翻墙）",INWILD (1080p)
+https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8
+#EXTINF:-1 tvg-name="Ink Master" group-title="国外纪录片（需翻墙）",Ink Master
+https://jmp2.uk/plu-60807fd5db701400078219c2.m3u8
+#EXTINF:-1 tvg-name="Ink Master CA" group-title="国外纪录片（需翻墙）",Ink Master CA
+https://jmp2.uk/plu-655f2d713944b60008bc7e90.m3u8
+#EXTINF:-1 tvg-name="Into Crime (1080p)" group-title="国外纪录片（需翻墙）",Into Crime (1080p)
+https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Investigation Discovery (Hungary)" group-title="国外纪录片（需翻墙）",Investigation Discovery (Hungary)
+http://88.212.7.14/live/id_hun/index.m3u8
+#EXTINF:-1 tvg-name="Investigation Discovery (India) (720p)" group-title="国外纪录片（需翻墙）",Investigation Discovery (India) (720p)
+https://drk6xq0vhn.gpcdn.net/live/id_hd_abr/index.m3u8
+#EXTINF:-1 tvg-name="Investigation Discovery (Russia) (1080p)" group-title="国外纪录片（需翻墙）",Investigation Discovery (Russia) (1080p)
+http://stream.mcquack.net/205/index.m3u8
+#EXTINF:-1 tvg-name="Investigation Discovery (United States) (1080p) [Geo-blocked]" group-title="国外纪录片（需翻墙）",Investigation Discovery (United States) (1080p) [Geo-blocked]
+http://212.5.144.156:8080/id/index.m3u8
+#EXTINF:-1 tvg-name="Italiana (1080p)" group-title="国外纪录片（需翻墙）",Italiana (1080p)
+https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8
+#EXTINF:-1 tvg-name="Karbala Documentary" group-title="国外纪录片（需翻墙）",Karbala Documentary
+https://ktvlive.online/stream/hls/ch3.m3u8
+#EXTINF:-1 tvg-name="Law & Crime (720p)" group-title="国外纪录片（需翻墙）",Law & Crime (720p)
+https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8
+#EXTINF:-1 tvg-name="Love Nature" group-title="国外纪录片（需翻墙）",Love Nature
+https://jmp2.uk/plu-66df8a29b25d2b0008fc5fe0.m3u8
+#EXTINF:-1 tvg-name="Love Nature 4K" group-title="国外纪录片（需翻墙）",Love Nature 4K
+https://jmp2.uk/stvp-USBA3400003IP
+#EXTINF:-1 tvg-name="Love Pets (1080p)" group-title="国外纪录片（需翻墙）",Love Pets (1080p)
+https://amg01576-blueskyeenterta-lovepetsemea-samsungse-ctamh.amagi.tv/playlist/amg01576-blueskyeenterta-lovepetsemea-samsungse/playlist.m3u8
+#EXTINF:-1 tvg-name="Love The Planet (1080p)" group-title="国外纪录片（需翻墙）",Love The Planet (1080p)
+https://amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk-apopw.amagi.tv/playlist/amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk/playlist.m3u8
+#EXTINF:-1 tvg-name="Lucky Dog (720p)" group-title="国外纪录片（需翻墙）",Lucky Dog (720p)
+https://d3j95sejv6mybj.cloudfront.net/Lucky_Dog.m3u8
+#EXTINF:-1 tvg-name="MRTV Farmer" group-title="国外纪录片（需翻墙）",MRTV Farmer
+https://mrtvott.com/cache/MRTV-FARMER/master.m3u8
+#EXTINF:-1 tvg-name="MWD Documentary [Geo-blocked]" group-title="国外纪录片（需翻墙）",MWD Documentary [Geo-blocked]
+http://203.81.84.130/hls/mwd_document/index.m3u8
+#EXTINF:-1 tvg-name="Military History (720p)" group-title="国外纪录片（需翻墙）",Military History (720p)
+https://frndly.keralive.workers.dev/v1/master/840a24ccd7c75076211d060179b3ad0c64fdc6ca/militaryhistory_live_nr/ab44a8245afe413db1169317ee5cda08/index.m3u8?type=ae2
+#EXTINF:-1 tvg-name="Modern Marvels by HISTORY" group-title="国外纪录片（需翻墙）",Modern Marvels by HISTORY
+https://jmp2.uk/plu-65775d29dfed030008cb3db2.m3u8
+#EXTINF:-1 tvg-name="N24 Doku" group-title="国外纪录片（需翻墙）",N24 Doku
+https://jmp2.uk/plu-60080e8a4bf36000076a81b1.m3u8
+#EXTINF:-1 tvg-name="Nano (576p)" group-title="国外纪录片（需翻墙）",Nano (576p)
+http://stream.mcquack.net/419/index.m3u8
+#EXTINF:-1 tvg-name="Nano HD (1080p)" group-title="国外纪录片（需翻墙）",Nano HD (1080p)
+http://185.23.80.23:8080/NANO_HD/index.m3u8
+#EXTINF:-1 tvg-name="NatGeo" group-title="国外纪录片（需翻墙）",NatGeo
+http://free.cnlive.club/channel/n75e57aab/index.m3u8?q=1752629214236
+#EXTINF:-1 tvg-name="Natgeo" group-title="国外纪录片（需翻墙）",Natgeo
+http://free.cnlive.club/channel/n3f497a4c/index.m3u8?q=1752629214236
+#EXTINF:-1 tvg-name="National Geographic (Bulgaria)" group-title="国外纪录片（需翻墙）",National Geographic (Bulgaria)
+http://213.91.179.28:8000/play/a0ct
+#EXTINF:-1 tvg-name="National Geographic (Czech Republic)" group-title="国外纪录片（需翻墙）",National Geographic (Czech Republic)
+http://88.212.15.50/live/test_ngc/playlist.m3u8
+#EXTINF:-1 tvg-name="National Geographic (Hungary)" group-title="国外纪录片（需翻墙）",National Geographic (Hungary)
+http://88.212.7.14/live/ngc_hun/index.m3u8
+#EXTINF:-1 tvg-name="National Geographic (Mexico) (1080p)" group-title="国外纪录片（需翻墙）",National Geographic (Mexico) (1080p)
+http://138.121.15.230:9002/NAT-GEO/index.m3u8
+#EXTINF:-1 tvg-name="National Geographic (Poland) (576i)" group-title="国外纪录片（需翻墙）",National Geographic (Poland) (576i)
+http://92.114.85.87:8006/play/a00a/index.m3u8
+#EXTINF:-1 tvg-name="National Geographic (United States) (720p)" group-title="国外纪录片（需翻墙）",National Geographic (United States) (720p)
+http://212.5.144.156:8080/natgeo/index.m3u8
+#EXTINF:-1 tvg-name="National Geographic (United States) HD East (720p)" group-title="国外纪录片（需翻墙）",National Geographic (United States) HD East (720p)
+http://198.58.104.90:8989/natgeo/index.m3u8
+#EXTINF:-1 tvg-name="National Geographic Latin America (1080p)" group-title="国外纪录片（需翻墙）",National Geographic Latin America (1080p)
+http://15.204.246.24:8080/NatGeoHD/index.m3u8
+#EXTINF:-1 tvg-name="National Geographic Wild (Bulgaria)" group-title="国外纪录片（需翻墙）",National Geographic Wild (Bulgaria)
+http://213.91.179.28:8000/play/a0cu
+#EXTINF:-1 tvg-name="National Geographic Wild (Czech Republic)" group-title="国外纪录片（需翻墙）",National Geographic Wild (Czech Republic)
+http://88.212.15.50/live/test_ngw/playlist.m3u8
+#EXTINF:-1 tvg-name="National Geographic Wild (Hungary)" group-title="国外纪录片（需翻墙）",National Geographic Wild (Hungary)
+http://88.212.7.14/live/ngw_hun/index.m3u8
+#EXTINF:-1 tvg-name="National Geographic Wild (Poland) (576i)" group-title="国外纪录片（需翻墙）",National Geographic Wild (Poland) (576i)
+http://92.114.85.87:8010/play/a005/index.m3u8
+#EXTINF:-1 tvg-name="National Geographic Wild (United States) HD East (720p)" group-title="国外纪录片（需翻墙）",National Geographic Wild (United States) HD East (720p)
+http://198.58.104.90:8989/natgeowild/index.m3u8
+#EXTINF:-1 tvg-name="NatureTime (1080p)" group-title="国外纪录片（需翻墙）",NatureTime (1080p)
+https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="NatureTime AU (1080p)" group-title="国外纪录片（需翻墙）",NatureTime AU (1080p)
+https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-name="NatureTime ES (1080p)" group-title="国外纪录片（需翻墙）",NatureTime ES (1080p)
+https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8
+#EXTINF:-1 tvg-name="NatureTime France (1080p)" group-title="国外纪录片（需翻墙）",NatureTime France (1080p)
+https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="NatureTime LATAM (684p)" group-title="国外纪录片（需翻墙）",NatureTime LATAM (684p)
+https://jmp2.uk/plu-681ba2729624e6275efe0044.m3u8
+#EXTINF:-1 tvg-name="Naturescape" group-title="国外纪录片（需翻墙）",Naturescape
+https://jmp2.uk/plu-5812bd9f249444e05d09cc4e.m3u8
+#EXTINF:-1 tvg-name="O'zbekiston Tarixi (1080p)" group-title="国外纪录片（需翻墙）",O'zbekiston Tarixi (1080p)
+https://stream8.cinerama.uz/1209/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-name="Ocean Vibes" group-title="国外纪录片（需翻墙）",Ocean Vibes
+https://jmp2.uk/stvp-US700012OU
+#EXTINF:-1 tvg-name="On The Case" group-title="国外纪录片（需翻墙）",On The Case
+https://jmp2.uk/plu-62cd971cec90c20007081050.m3u8
+#EXTINF:-1 tvg-name="PBS Nature" group-title="国外纪录片（需翻墙）",PBS Nature
+https://jmp2.uk/plu-640a64bd73e013000893d4e0.m3u8
+#EXTINF:-1 tvg-name="Pawn Stars Plus by History" group-title="国外纪录片（需翻墙）",Pawn Stars Plus by History
+https://jmp2.uk/plu-6aab1f18c349e6a78bb489ad.m3u8
+#EXTINF:-1 tvg-name="Persiana Docs" group-title="国外纪录片（需翻墙）",Persiana Docs
+https://scihls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Persiana Travel" group-title="国外纪录片（需翻墙）",Persiana Travel
+https://ptravelhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Alien Invasion (Germany)" group-title="国外纪录片（需翻墙）",Pluto TV Alien Invasion (Germany)
+https://jmp2.uk/plu-6462190b7cb4b1000862dd60.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Alien Invasion (Sweden)" group-title="国外纪录片（需翻墙）",Pluto TV Alien Invasion (Sweden)
+https://jmp2.uk/plu-650999b86a841400083bd1ab.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Aliens" group-title="国外纪录片（需翻墙）",Pluto TV Aliens
+https://jmp2.uk/plu-6806d65e84f24b70109485fa.m3u8
+#EXTINF:-1 tvg-name="Pluto TV American True Crime" group-title="国外纪录片（需翻墙）",Pluto TV American True Crime
+https://jmp2.uk/plu-692ebafce72f03e07e7df985.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Animais" group-title="国外纪录片（需翻墙）",Pluto TV Animais
+https://jmp2.uk/plu-6474aa984cfc2c0008883a92.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Animales" group-title="国外纪录片（需翻墙）",Pluto TV Animales
+https://jmp2.uk/plu-600ae6a78d801e0007117d21.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Animals" group-title="国外纪录片（需翻墙）",Pluto TV Animals
+https://jmp2.uk/plu-5d767ae7b456c8cf265ce922.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Animals GB" group-title="国外纪录片（需翻墙）",Pluto TV Animals GB
+https://jmp2.uk/plu-5ddf8ea0d000120009bcad83.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Animaux" group-title="国外纪录片（需翻墙）",Pluto TV Animaux
+https://jmp2.uk/plu-60925a44f0350600075a1fdc.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Aventure" group-title="国外纪录片（需翻墙）",Pluto TV Aventure
+https://jmp2.uk/plu-611e7811eb9daf000764cbfd.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Britain at War" group-title="国外纪录片（需翻墙）",Pluto TV Britain at War
+https://jmp2.uk/plu-625e8cb585ef320007806caf.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Conspiracy" group-title="国外纪录片（需翻墙）",Pluto TV Conspiracy
+https://jmp2.uk/plu-5d4ae94ef1a1bbb350ca41bb.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Documentari" group-title="国外纪录片（需翻墙）",Pluto TV Documentari
+https://jmp2.uk/plu-608aa8a5709d6b0007b132fe.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Documentaries" group-title="国外纪录片（需翻墙）",Pluto TV Documentaries
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b85a7582921777994caea63/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=91&deviceId=5b85a7582921777994caea63&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-name="Pluto TV Dokumentar" group-title="国外纪录片（需翻墙）",Pluto TV Dokumentar
+https://jmp2.uk/plu-62b1e2498261390007f25c98.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Dokumentar DK" group-title="国外纪录片（需翻墙）",Pluto TV Dokumentar DK
+https://jmp2.uk/plu-62b30b0060a9ca0007d628b4.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Explore" group-title="国外纪录片（需翻墙）",Pluto TV Explore
+https://jmp2.uk/plu-5ad9b8551b95267e225e59c1.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Food" group-title="国外纪录片（需翻墙）",Pluto TV Food
+https://jmp2.uk/plu-5dc280c9aa218c0009724b4b.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Food GB" group-title="国外纪录片（需翻墙）",Pluto TV Food GB
+https://jmp2.uk/plu-5ddf930548ff9b00090d5686.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Histoire (720p)" group-title="国外纪录片（需翻墙）",Pluto TV Histoire (720p)
+https://jmp2.uk/plu-611e771e2f5f180007002224.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Historia (Germany) (720p)" group-title="国外纪录片（需翻墙）",Pluto TV Historia (Germany) (720p)
+https://jmp2.uk/plu-61cd7b49543066000713b620.m3u8
+#EXTINF:-1 tvg-name="Pluto TV History" group-title="国外纪录片（需翻墙）",Pluto TV History
+https://jmp2.uk/plu-5a4d35dfa5c02e717a234f86.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Investigacao" group-title="国外纪录片（需翻墙）",Pluto TV Investigacao
+https://jmp2.uk/plu-5f32cf37c9ff2b00082adbc8.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Mystery" group-title="国外纪录片（需翻墙）",Pluto TV Mystery
+https://jmp2.uk/plu-617aad99b68ef100072608cd.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Natura" group-title="国外纪录片（需翻墙）",Pluto TV Natura
+https://jmp2.uk/plu-60802b37709d6b0007b0c549.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Naturaleza" group-title="国外纪录片（需翻墙）",Pluto TV Naturaleza
+https://jmp2.uk/plu-5dd85eac039bba0009e86d1d.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Nature" group-title="国外纪录片（需翻墙）",Pluto TV Nature
+https://jmp2.uk/plu-5be1c3f9851dd5632e2c91b2.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Negocio Fechado" group-title="国外纪录片（需翻墙）",Pluto TV Negocio Fechado
+https://jmp2.uk/plu-64ad7394798def00087b2bfe.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Paranormal (United States)" group-title="国外纪录片（需翻墙）",Pluto TV Paranormal (United States)
+https://jmp2.uk/plu-5adf96e3e738977e2c31cb04.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Paranormal (United States) CA" group-title="国外纪录片（需翻墙）",Pluto TV Paranormal (United States) CA
+https://jmp2.uk/plu-62e92a58f3e4290007290c96.m3u8
+#EXTINF:-1 tvg-name="Pluto TV PetrolHeads" group-title="国外纪录片（需翻墙）",Pluto TV PetrolHeads
+https://jmp2.uk/plu-65a7b0814a10d800085ff2df.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Policial" group-title="国外纪录片（需翻墙）",Pluto TV Policial
+https://jmp2.uk/plu-678fdf9e3de7c8cf948e8824.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Reportagen" group-title="国外纪录片（需翻墙）",Pluto TV Reportagen
+https://jmp2.uk/plu-68ada3edf84960586ad31c7d.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Science" group-title="国外纪录片（需翻墙）",Pluto TV Science
+https://jmp2.uk/plu-563a970aa1a1f7fe7c9daad7.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Space (Germany)" group-title="国外纪录片（需翻墙）",Pluto TV Space (Germany)
+https://jmp2.uk/plu-61409f8d6feb30000766b675.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Space (Germany) GB" group-title="国外纪录片（需翻墙）",Pluto TV Space (Germany) GB
+https://jmp2.uk/plu-5dbc2f98777f2e0009934ae7.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Space (Sweden)" group-title="国外纪录片（需翻墙）",Pluto TV Space (Sweden)
+https://jmp2.uk/plu-61b86c6ef30f5d0007e4c6d1.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Storia" group-title="国外纪录片（需翻墙）",Pluto TV Storia
+https://jmp2.uk/plu-65253fdf3fd33c00080214a3.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Tough Jobs" group-title="国外纪录片（需翻墙）",Pluto TV Tough Jobs
+https://jmp2.uk/plu-600acaff5f2d6e000745effb.m3u8
+#EXTINF:-1 tvg-name="Pluto TV True Crime (Sweden)" group-title="国外纪录片（需翻墙）",Pluto TV True Crime (Sweden)
+https://jmp2.uk/plu-61c0b438244e50000758083b.m3u8
+#EXTINF:-1 tvg-name="Pluto TV True Crime (Sweden) DK" group-title="国外纪录片（需翻墙）",Pluto TV True Crime (Sweden) DK
+https://jmp2.uk/plu-61c097ec8bb1830008e3f962.m3u8
+#EXTINF:-1 tvg-name="Pluto TV True Crime (Sweden) NO" group-title="国外纪录片（需翻墙）",Pluto TV True Crime (Sweden) NO
+https://jmp2.uk/plu-61c1e51354d923000731bf78.m3u8
+#EXTINF:-1 tvg-name="Pluto TV True Crime (United States)" group-title="国外纪录片（需翻墙）",Pluto TV True Crime (United States)
+https://jmp2.uk/plu-5812be1c249444e05d09cc50.m3u8
+#EXTINF:-1 tvg-name="Pluto TV True Crime (United States) CA" group-title="国外纪录片（需翻墙）",Pluto TV True Crime (United States) CA
+https://jmp2.uk/plu-62e9289f8d467f0007fbc701.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Turbo" group-title="国外纪录片（需翻墙）",Pluto TV Turbo
+https://jmp2.uk/plu-6014761dfb91870008ea6463.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Varldskrigen" group-title="国外纪录片（需翻墙）",Pluto TV Varldskrigen
+https://jmp2.uk/plu-677d3ad04bd63600082f7c54.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Verdenskrigene" group-title="国外纪录片（需翻墙）",Pluto TV Verdenskrigene
+https://jmp2.uk/plu-677d397b60fbeb00084b0bff.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Verdenskrigene NO" group-title="国外纪录片（需翻墙）",Pluto TV Verdenskrigene NO
+https://jmp2.uk/plu-677d3a424bd63600082f7baf.m3u8
+#EXTINF:-1 tvg-name="Polsat Viasat Explore" group-title="国外纪录片（需翻墙）",Polsat Viasat Explore
+http://92.114.85.87:8014/play/a00g/index.m3u8
+#EXTINF:-1 tvg-name="Polsat Viasat History (1080p)" group-title="国外纪录片（需翻墙）",Polsat Viasat History (1080p)
+http://185.227.34.179:8080/polsat-viasat-history-hd/index.m3u8
+#EXTINF:-1 tvg-name="Polsat Viasat Nature" group-title="国外纪录片（需翻墙）",Polsat Viasat Nature
+http://92.114.85.87:8016/play/a004/index.m3u8
+#EXTINF:-1 tvg-name="RT Documentary (1080p) [Geo-blocked]" group-title="国外纪录片（需翻墙）",RT Documentary (1080p) [Geo-blocked]
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+#EXTINF:-1 tvg-name="RT Documentary Russian (1080p)" group-title="国外纪录片（需翻墙）",RT Documentary Russian (1080p)
+https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
+#EXTINF:-1 tvg-name="Safari TV (576p)" group-title="国外纪录片（需翻墙）",Safari TV (576p)
+https://mumt04.tangotv.in/m18aqlK4SAFARITV/index.m3u8
+#EXTINF:-1 tvg-name="Sensing Murder" group-title="国外纪录片（需翻墙）",Sensing Murder
+https://jmp2.uk/plu-5e9ed47c26ebb000074af566.m3u8
+#EXTINF:-1 tvg-name="Smithsonian Channel Pluto TV" group-title="国外纪录片（需翻墙）",Smithsonian Channel Pluto TV
+https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8
+#EXTINF:-1 tvg-name="Smithsonian Channel Pluto TV LatAm" group-title="国外纪录片（需翻墙）",Smithsonian Channel Pluto TV LatAm
+https://jmp2.uk/plu-63a084934734f30007457b2c.m3u8
+#EXTINF:-1 tvg-name="Smithsonian Channel Selects" group-title="国外纪录片（需翻墙）",Smithsonian Channel Selects
+https://jmp2.uk/plu-5f21ea08007a49000762d349.m3u8
+#EXTINF:-1 tvg-name="Smithsonian Channel Selects (Sweden)" group-title="国外纪录片（需翻墙）",Smithsonian Channel Selects (Sweden)
+https://jmp2.uk/plu-61fb9907b1b78d000717ed9f.m3u8
+#EXTINF:-1 tvg-name="Smithsonian Channel Selects (Sweden) DK" group-title="国外纪录片（需翻墙）",Smithsonian Channel Selects (Sweden) DK
+https://jmp2.uk/plu-61fb988e032c0100077d5252.m3u8
+#EXTINF:-1 tvg-name="Smotrim 100% Fakty (720p)" group-title="国外纪录片（需翻墙）",Smotrim 100% Fakty (720p)
+https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
+#EXTINF:-1 tvg-name="Spektrum (Czech Republic)" group-title="国外纪录片（需翻墙）",Spektrum (Czech Republic)
+http://88.212.15.50/live/test_spektrum/playlist.m3u8
+#EXTINF:-1 tvg-name="Spektrum (Hungary)" group-title="国外纪录片（需翻墙）",Spektrum (Hungary)
+http://88.212.7.14/live/spektrum_hun/index.m3u8
+#EXTINF:-1 tvg-name="Spike Pluto TV" group-title="国外纪录片（需翻墙）",Spike Pluto TV
+https://jmp2.uk/plu-5812bcc8237a6ff45d16c407.m3u8
+#EXTINF:-1 tvg-name="Storie Criminali" group-title="国外纪录片（需翻墙）",Storie Criminali
+https://jmp2.uk/plu-66177d18c8311c0008d077d0.m3u8
+#EXTINF:-1 tvg-name="TVS Hollywood History (582p)" group-title="国外纪录片（需翻墙）",TVS Hollywood History (582p)
+https://rpn.bozztv.com/gusa/gusa-tvshollywoohistory/index.m3u8
+#EXTINF:-1 tvg-name="Teen Mom (United States)" group-title="国外纪录片（需翻墙）",Teen Mom (United States)
+https://jmp2.uk/plu-6127e12ed140e900077e7b6f.m3u8
+#EXTINF:-1 tvg-name="Terra Mater WILD (1080p)" group-title="国外纪录片（需翻墙）",Terra Mater WILD (1080p)
+https://53ff3982.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9UZXJyYU1hdGVyV2lsZF9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-name="The Nest (1080p)" group-title="国外纪录片（需翻墙）",The Nest (1080p)
+https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
+#EXTINF:-1 tvg-name="The Pet Collective" group-title="国外纪录片（需翻墙）",The Pet Collective
+https://jmp2.uk/stvp-USAJ3504704A
+#EXTINF:-1 tvg-name="The Pet Collective" group-title="国外纪录片（需翻墙）",The Pet Collective
+https://jmp2.uk/plu-5bb1ad55268cae539bcedb08.m3u8
+#EXTINF:-1 tvg-name="The Pet Collective" group-title="国外纪录片（需翻墙）",The Pet Collective
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-5f170d61b898490041b49369/?X-Plex-Token=b676eoTngS5Ec_CLiyvr
+#EXTINF:-1 tvg-name="Torque by History" group-title="国外纪录片（需翻墙）",Torque by History
+https://jmp2.uk/plu-6aab1ef220ec28a21adca712.m3u8
+#EXTINF:-1 tvg-name="Total Crime (1080p)" group-title="国外纪录片（需翻墙）",Total Crime (1080p)
+https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playlist.m3u8
+#EXTINF:-1 tvg-name="True History" group-title="国外纪录片（需翻墙）",True History
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-614398a08f30fa61e0da7c97/?X-Plex-Token=b676eoTngS5Ec_CLiyvr
+#EXTINF:-1 tvg-name="True History (720p)" group-title="国外纪录片（需翻墙）",True History (720p)
+https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Unidentified (1080p)" group-title="国外纪录片（需翻墙）",Unidentified (1080p)
+https://d3ify425qsio2d.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-name="Viasat Explore (Czech Republic)" group-title="国外纪录片（需翻墙）",Viasat Explore (Czech Republic)
+http://88.212.15.50/live/test_viasat_explore_atk_tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Viasat History (Czech Republic)" group-title="国外纪录片（需翻墙）",Viasat History (Czech Republic)
+http://88.212.15.50/live/test_viasat_history_atk_tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Viasat History (Ukraine)" group-title="国外纪录片（需翻墙）",Viasat History (Ukraine)
+http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODYvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTM0ODYmc3Q9MVprUlhpb2xfODRPc2RMR2R0VDNzQQ%3D%3D&master=78
+#EXTINF:-1 tvg-name="Viasat Nature (Czech Republic)" group-title="国外纪录片（需翻墙）",Viasat Nature (Czech Republic)
+http://88.212.15.50/live/test_viasat_nature_atk_tv/playlist.m3u8
+#EXTINF:-1 tvg-name="WaterBear (1080p)" group-title="国外纪录片（需翻墙）",WaterBear (1080p)
+https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/playlist/amg01415-waterbearnetwor-waterbear-samsunguk/playlist.m3u8
+#EXTINF:-1 tvg-name="Wedo Big Stories (1080p)" group-title="国外纪录片（需翻墙）",Wedo Big Stories (1080p)
+https://amg00735-videosolutionsa-wedobigdocs-ono-0urlz.amagi.tv/playlist/amg00735-videosolutionsa-wedobigdocs-ono/playlist.m3u8
+#EXTINF:-1 tvg-name="WildEarth" group-title="国外纪录片（需翻墙）",WildEarth
+https://jmp2.uk/stvp-US3800007CR
+#EXTINF:-1 tvg-name="WildEarth" group-title="国外纪录片（需翻墙）",WildEarth
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-60d4edddb2fdec002c141135/?X-Plex-Token=b676eoTngS5Ec_CLiyvr
+#EXTINF:-1 tvg-name="WildEarth (1080p)" group-title="国外纪录片（需翻墙）",WildEarth (1080p)
+https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
+#EXTINF:-1 tvg-name="Xtreme Outdoor by HISTORY" group-title="国外纪录片（需翻墙）",Xtreme Outdoor by HISTORY
+https://jmp2.uk/plu-6000a6f4c3f8550008fc9b91.m3u8
+#EXTINF:-1 tvg-name="kabel eins Doku (720p)" group-title="国外纪录片（需翻墙）",kabel eins Doku (720p)
+https://s6.hopslan.com/dokuX/index.m3u8
+#EXTINF:-1 tvg-name="viju Explore (576p)" group-title="国外纪录片（需翻墙）",viju Explore (576p)
+http://stream.mcquack.net/239/index.m3u8
+#EXTINF:-1 tvg-name="viju History (576p)" group-title="国外纪录片（需翻墙）",viju History (576p)
+http://178.124.179.122:8080/HistoryHD/index.m3u8
+#EXTINF:-1 tvg-name="viju+ Planet HD (1080p)" group-title="国外纪录片（需翻墙）",viju+ Planet HD (1080p)
+http://stream.mcquack.net/240/index.m3u8

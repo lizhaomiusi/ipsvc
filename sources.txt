@@ -13,6 +13,9 @@
 国内·全国综合,https://raw.githubusercontent.com/lizhaomiusi/ipsvc/main/xisohi.m3u
 国内·聚合大全,https://raw.githubusercontent.com/lizhaomiusi/ipsvc/main/kimwang.m3u
 音乐台,https://raw.githubusercontent.com/lizhaomiusi/ipsvc/main/music.m3u
+纪录片,https://raw.githubusercontent.com/lizhaomiusi/ipsvc/main/documentary.m3u
+动物世界,https://raw.githubusercontent.com/lizhaomiusi/ipsvc/main/animals.m3u
+动画片,https://raw.githubusercontent.com/lizhaomiusi/ipsvc/main/kids.m3u
 海外华语,https://raw.githubusercontent.com/lizhaomiusi/ipsvc/main/zho.m3u
 海外·香港,https://raw.githubusercontent.com/lizhaomiusi/ipsvc/main/hk.m3u
 国外·新闻,https://raw.githubusercontent.com/lizhaomiusi/ipsvc/main/news.m3u
