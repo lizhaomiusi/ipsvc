@@ -307,7 +307,7 @@ https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/pl
 https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8
 #EXTINF:-1 tvg-id="ARYNews.pk@SD" tvg-logo="https://i.imgur.com/R4KtTbJ.jpg" group-title="News",ARY News
 https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-arynews-abr/live/vsat-arynews-H/chunks_dvr_timeshift-0-3600.m3u8
-#EXTINF:-1 tvg-id="ASTV.tr@SD" tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_13.png" group-title="News",AS TV (900p)
+#EXTINF:-1 tvg-id="ASTV.tr@SD" tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_13.png" group-title="News",AS TV (Turkiye) (900p)
 https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8
 #EXTINF:-1 tvg-id="AsharqNews.sa@SD" tvg-logo="https://i.imgur.com/bqRC3sl.png" group-title="Business;News",Asharq News (1080p)
 https://live-news.asharq.com/asharq.m3u8
@@ -1421,6 +1421,8 @@ https://stream.ottlive.co.in/newsleader/index.m3u8
 https://prideeast.thelegitpro.in/newslive/newslive/index.m3u8
 #EXTINF:-1 tvg-id="NewsLiveBangla.in@SD" tvg-logo="https://papaji.freetvindia.com/media/News_Live_Bangla.png" group-title="News",News Live Bangla (576p)
 https://mumt06.tangotv.in/qYyB8fXVINDRADHANU/index.m3u8
+#EXTINF:-1 tvg-id="NewsMalayalam24x7.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS_MALAYALAM_24X7/images/LOGO_HD/image.png" group-title="News",News Malayalam 24x7 (576p)
+https://cdn.pishow.tv/ott/live/1629/master.m3u8
 #EXTINF:-1 tvg-id="NewsMarathi24x7.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/cb84d7f7e19bcbfb9b6d664e7fb2adee.png" group-title="News",News Marathi 24x7 (720p)
 https://live1.ottlive.co.in/newsmarathi/newsmarathi/index.m3u8
 #EXTINF:-1 tvg-id="NewsNation81.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_Nation_81.png" group-title="News",News Nation 81 (1080p)
@@ -1563,9 +1565,6 @@ https://live1.mediadesk.al/oranews.m3u8
 #EXTINF:-1 tvg-id="OstWest24.de@SD" tvg-logo="https://i.imgur.com/voeQ6x1.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Culture;News",Ost West 24 (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/455/index.m3u8
-#EXTINF:-1 tvg-id="OstWest.de@SD" tvg-logo="https://i.imgur.com/nSQWo49.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Culture;News",Ost West (576p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://hls127.freeott.top:8080/OstWest/video.m3u8
 #EXTINF:-1 tvg-id="OTV.hr@SD" tvg-logo="https://i.imgur.com/67zVdu2.png" group-title="News",OTV (Croatia) (720p) [Not 24/7]
 https://stream.agatin.hr:3559/live/otvlive.m3u8
 #EXTINF:-1 tvg-id="PalestineAlYawm.lb@SD" tvg-logo="https://i.imgur.com/n8dSgx4.png" group-title="News",Palestine Al Yawm (720p)
@@ -1875,6 +1874,8 @@ https://ott.livelegitpro.in/sudarshannews/sudarshannews/tracks-v1/index.fmp4.m3u
 http://103.250.28.74:8000/play/a02a/index.m3u8
 #EXTINF:-1 tvg-id="SunuLabelTV.sn@SD" tvg-logo="https://i.imgur.com/Ibp7IBk.jpeg" group-title="News",SunuLabel TV (480p) [Not 24/7]
 https://live3.acangroup.org:1929/publiclive/sunulabel/playlist.m3u8
+#EXTINF:-1 tvg-id="SuperExpressTV.pl@FAST" tvg-logo="https://i.imgur.com/HuIsALV.png" group-title="News",Super Express TV (1080p)
+https://prx-y5cf8.mediatool.tv/playout/sepl-abr67/index.m3u8
 #EXTINF:-1 tvg-id="SuvarnaNews.in@SD" tvg-logo="https://i.imgur.com/0H1HObK.png" group-title="News",Suvarna News SD (576p)
 https://streams.tangotv.in/SUVARNANEWS/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="SwadeshNews.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Swadesh_News.png" group-title="News",Swadesh News (720p)
